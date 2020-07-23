@@ -1,0 +1,34 @@
+export const bg_clr = '#fffbf4';
+export const txt_clr = '#000';
+export const grey_txt = '#8d8d8d';
+export const placholder_txt_clr = '#abb0b0';
+export const input_txt_clr = '#000';
+export const btn_clr = '#6147b6';
+export const green_clr = '#00796b';
+export const btn_primary_clr = '#1ab6af';
+export const pink_clr = '#db308d';
+export const blue_clr = '#30588d';
+export const grey_des_clr = '#616161';
+export const red_clr = '#9b0e36';
+export const dark_green_clr = '#005353';
+export const black_des_clr = '#434343';
+export const blue_des_clr = '#1e406f';
+export const yellow = '#fbc02d';
+export const events_clr = '#512da8';
+export const business_clr = '#0d47a1';
+export const quiz_clr = '#0f4c5c';
+export const membership_clr = '#00796b';
+export const news_clr = '#007a8c';
+export const remove_mem_clr = '#690000';
+export const poll_clr = '#663e2e';
+export const quiz_gold_clr = '#b15316';
+export const gallery_clr = '#b15316';
+export const sponsors_clr = '#5a8d47';
+export const out_team_clr = '#676767';
+export const about_my_clr = '#6147b6';
+export const about_clr = '#2d5385';
+export const ticket_clr = '#114b5f';
+export const coupon_clr = '#94004e';
+export const settings_clr = '#263238';
+
+
